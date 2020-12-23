@@ -7,6 +7,8 @@ Para essa fase do processo seletivo esperamos que você crie um aplicativo, mas 
 
 Queremos que o app seja um local onde o usuário consiga armazenar uma lista de tarefas.
 
+Não estamos esperando um aplicativo com uma interface maravilhosa ou que relize mais funções do que as especificadas aqui, afinal, queremos apenas que você tenha uma experiência bacana com Dev Mobile.
+
 ## Requisitos mínimos
 - Visulizar tarefas salvas.
 - Completar uma tarefa.
