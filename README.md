@@ -21,7 +21,7 @@ Aqui você pode utilizar a tecnologia de desenvolvimento mobile que preferir, re
 - Pode ser utilizado algum banco de dados em nuvem como Firebase, mas pode ser utilizado o local storage do próprio app.
 
 ## Como enviar o projeto?
-Você pode clonar esse repositório e criar uma branch para você com seu nome, saberemos que você concluiu o projeto quando realizar um merge request para a Master, mas não realize o merge, apenas abra ele.
+Você pode clonar esse repositório e criar uma branch para você com seu nome, saberemos que você concluiu o projeto quando realizar um merge request para a main, mas não realize o merge, apenas abra ele.
 
 Você também pode enviar a pasta do projeto para douglas@raccoon.ag
 
