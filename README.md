@@ -23,6 +23,6 @@ Aqui você pode utilizar a tecnologia de desenvolvimento mobile que preferir, re
 ## Como enviar o projeto?
 Você pode clonar esse repositório e criar uma branch para você com seu nome, saberemos que você concluiu o projeto quando realizar um merge request para a main, mas não realize o merge, apenas abra ele.
 
-Você também pode enviar a pasta do projeto para douglas@raccoon.ag
+Você também pode enviar um link compartilhado com a pasta do projeto neste formulário (https://docs.google.com/forms/d/1eesd6ZRD7TnURS4bcy1_Q3ai-HbJ4bkeGUy3ox6VL1s/edit).
 
 Esperamos que no README do projeto esteja as informações necessárias para compilar ou rodar-mos ele na nossa máquina.
